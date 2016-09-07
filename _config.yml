@@ -1,2 +1,3 @@
 name: Liam Hickey, Software Dev in Training
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
