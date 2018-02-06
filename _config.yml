@@ -1,3 +1,5 @@
-name: Liam Hickey, Software Dev in Training
+name: Liam Hickey
+description: Embedded Developer from the GTA.
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
