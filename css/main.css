@@ -13,8 +13,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 #Header {
-    margin:20px 0 10px 0;
-    padding:0 0 2.0ex 20px;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     border-style:solid;
     border-color:black;
     border-width:1px 0;
