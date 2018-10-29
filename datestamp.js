@@ -1,5 +1,6 @@
 
 // JavaScript to generate a compact date representation
+// credit to http://www.catb.org/esr/datestamp.js
 
 //
 // format date as dd-mmm-yyyyy
